@@ -1,8 +1,4 @@
-# aboutmealex
-
-Unfortunately, I receive a "The repository alexandertodorovic has been retired and cannot be reused." error when I try to create my profile README as explained here: [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-
-Until this error is resolved, I'll manage my profile README in this repository.
+# About me
 
 - 👋 Hi, I’m @alexandertodorovic
 - 👀 I’m interested in Data Analytics, AI, Python, and SQL.

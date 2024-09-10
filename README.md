@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actively practicing karate and learning Japanese.
 
-Feel free to check out my projects and connect with me!
+Feel free to  connect with me!
 
 <table>
   <tr>
